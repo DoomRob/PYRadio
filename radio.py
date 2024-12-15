@@ -3,7 +3,7 @@ from PIL import ImageTk,Image
 
 root = Tk()
 root.title("My Code")
-root.iconbitmap('c:/Users/corru/OneDrive/Documents/Python/GUI')
+root.iconbitmap('c:/Users/Documents/Python/GUI')
 
 # Defining the Variable
 # rbutton = IntVar()
